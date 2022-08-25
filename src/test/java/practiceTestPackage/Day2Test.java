@@ -19,4 +19,9 @@ public class Day2Test {
 	public void getCommitineclipse() {
 		System.out.println("In eclipse commited");
 	}
+	
+	@Test
+	public void getCommitinEclipse2() {
+		System.out.println("commited in eclipse for second time");
+	}
 }
