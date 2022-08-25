@@ -18,6 +18,8 @@ public class Day1Test {
 	public void getContact() {
 		System.out.println("CONTACT");
 		System.out.println("ADDRESS TAB");
+		System.out.println("email");
+		
 	}
 	
 }
