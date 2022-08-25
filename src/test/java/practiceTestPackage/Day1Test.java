@@ -14,4 +14,9 @@ public class Day1Test {
 		System.out.println("HOME");
 	}
 	
+	@Test
+	public void getContact() {
+		System.out.println("CONTACT");
+	}
+	
 }
