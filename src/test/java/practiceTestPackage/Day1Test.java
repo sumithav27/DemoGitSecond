@@ -1,4 +1,4 @@
-package UdemyProject.PractiseMaven;
+package practiceTestPackage;
 
 import org.testng.annotations.Test;
 
