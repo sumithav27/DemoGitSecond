@@ -14,4 +14,9 @@ public class Day2Test {
 	public void getsubmit(){
 		System.out.println("SUBMIT");
 	}
+	
+	@Test
+	public void getCommitineclipse() {
+		System.out.println("In eclipse commited");
+	}
 }
